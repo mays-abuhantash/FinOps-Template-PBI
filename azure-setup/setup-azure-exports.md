@@ -6,8 +6,6 @@ You can configure exports either via the **Azure portal** or via **Azure CLI / P
 
 ---
 
-## Option 1 — Azure portal
-
 ### Step 1 — Create the Resource Group
 
 A Resource Group is a logical container that holds all related Azure resources together.
@@ -187,7 +185,6 @@ For the account that will run the dataset refresh in Power BI Service:
 Wait ~5 minutes for the role to propagate before testing in Power BI.
 
 ---
-
 
 ## Verification checklist
 
