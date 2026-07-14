@@ -50,7 +50,7 @@ A three-page Power BI report with **68 pre-built FinOps measures**, dual data-mo
 - ✅ [`assets/architecture.svg`](assets/architecture.svg) — architecture diagram for slides and docs.
 - ✅ A line-by-line walkthrough of every M query and every measure (in [`docs/`](docs/)).
 - ✅ [`azure-setup/setup-azure-exports.md`](azure-setup/setup-azure-exports.md) — portal + Azure CLI + Bicep instructions for configuring the upstream Cost Management exports.
-- ✅ [`assets\FinOps_Cockpit_Kickoff.pptx`](assets\FinOps_Cockpit_Kickoff.pptx) — 3-slide kickoff deck covering the architecture, how to navigate the IP, and outcomes & benefits by persona. Use this to align stakeholders and set context before your first deployment session. Available in the `assets/` folder (or request a copy from your FinOps lead).
+- ✅ [`assets\Azure_FinOps_Cockpit_Kickoff.pptx`](assets\Azure_FinOps_Cockpit_Kickoff.pptx) — 3-slide kickoff deck covering the architecture, how to navigate the IP, and outcomes & benefits by persona. Use this to align stakeholders and set context before your first deployment session. Available in the `assets/` folder (or request a copy from your FinOps lead).
 
 ---
 
